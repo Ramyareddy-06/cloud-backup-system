@@ -6,3 +6,41 @@ Archive:  /Users/ramyareddy/cloud-backup-system/cloud_storage/backup_20260326_22
 Files restored successfully from backup_20260326_221305.zip
 Restore completed at: Tue Apr 28 22:06:05 IST 2026
 ----------------------------------------
+----------------------------------------
+Restore started at: Tue Apr 28 22:34:13 IST 2026
+Backup file not found: ls -t cloud_storage | head -1
+----------------------------------------
+Restore started at: Tue Apr 28 22:35:21 IST 2026
+Archive:  /Users/ramyareddy/cloud-backup-system/cloud_storage/backup_20260428_213816.zip
+  inflating: /Users/ramyareddy/cloud-backup-system/restored_files/file1.txt  
+ extracting: /Users/ramyareddy/cloud-backup-system/restored_files/file2.txt  
+Files restored successfully from backup_20260428_213816.zip
+Restore completed at: Tue Apr 28 22:35:21 IST 2026
+----------------------------------------
+----------------------------------------
+Restore started at: Tue Apr 28 22:40:21 IST 2026
+Archive:  /Users/ramyareddy/cloud-backup-system/cloud_storage/backup_20260428_224000.zip
+   creating: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup
+ extracting: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup/file2.txt  
+  inflating: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup/file1.txt  
+Files restored successfully from backup_20260428_224000.zip
+Restore completed at: Tue Apr 28 22:40:21 IST 2026
+----------------------------------------
+----------------------------------------
+Restore started at: Tue Apr 28 22:43:14 IST 2026
+Archive:  /Users/ramyareddy/cloud-backup-system/cloud_storage/backup_20260428_224000.zip
+   creating: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup
+ extracting: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup/file2.txt  
+  inflating: /Users/ramyareddy/cloud-backup-system/restored_files/Users/ramyareddy/cloud-backup-system/files_to_backup/file1.txt  
+Files restored successfully from backup_20260428_224000.zip
+Restore completed at: Tue Apr 28 22:43:14 IST 2026
+----------------------------------------
+----------------------------------------
+Restore started at: Tue Apr 28 22:44:35 IST 2026
+Archive:  /Users/ramyareddy/cloud-backup-system/cloud_storage/backup_20260428_224405.zip
+ extracting: /Users/ramyareddy/cloud-backup-system/restored_files/file2.txt  
+  inflating: /Users/ramyareddy/cloud-backup-system/restored_files/file1.txt  
+  inflating: /Users/ramyareddy/cloud-backup-system/restored_files/Unit II - Data Science.pptx  
+Files restored successfully from backup_20260428_224405.zip
+Restore completed at: Tue Apr 28 22:44:35 IST 2026
+----------------------------------------

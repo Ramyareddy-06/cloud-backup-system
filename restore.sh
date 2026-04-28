@@ -26,6 +26,7 @@ if [ ! -f "$CLOUD_DIR/$BACKUP_FILE" ]; then
     exit 1
 fi
 
+rm -rf "$RESTORE_DIR"/*
 unzip -o "$CLOUD_DIR/$BACKUP_FILE" -d "$RESTORE_DIR" >> "$LOG_FILE" 2>&1
 
 if [ $? -eq 0 ]; then
@@ -35,9 +36,11 @@ if [ $? -eq 0 ]; then
 
     echo "Restore completed successfully!"
     echo "Files restored inside restored_files folder."
+    echo ""
+    echo "Restored files:"
+    find "$RESTORE_DIR" -type f
 else
     echo "Restore failed during extraction" >> "$LOG_FILE"
     echo "Restore failed"
     exit 1
 fi
-

@@ -2,3 +2,46 @@ Backup created at 20260326_221305
 Backup created at 20260326_221754
 Backup created at 20260428_213816
 Backup created at 20260428_220414
+Backup created at 20260428_223307
+Backup created at 20260428_223544
+Backup created at 20260428_223643
+----------------------------------------
+Backup started at: Tue Apr 28 22:38:35 IST 2026
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/ (stored 0%)
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/file2.txt (stored 0%)
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/file1.txt (deflated 9%)
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/Unit II - Data Science.pptx (deflated 8%)
+Files compressed successfully
+Backup stored in cloud_storage folder
+Backup file name: backup_20260428_223835.zip
+Backup completed at: Tue Apr 28 22:38:35 IST 2026
+----------------------------------------
+----------------------------------------
+Backup started at: Tue Apr 28 22:40:00 IST 2026
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/ (stored 0%)
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/file2.txt (stored 0%)
+  adding: Users/ramyareddy/cloud-backup-system/files_to_backup/file1.txt (deflated 9%)
+Files compressed successfully
+Backup stored in cloud_storage folder
+Backup file name: backup_20260428_224000.zip
+Backup completed at: Tue Apr 28 22:40:00 IST 2026
+----------------------------------------
+----------------------------------------
+Backup started at: Tue Apr 28 22:44:05 IST 2026
+  adding: file2.txt (stored 0%)
+  adding: file1.txt (deflated 9%)
+  adding: Unit II - Data Science.pptx (deflated 8%)
+Files compressed successfully
+Backup stored in cloud_storage folder
+Backup file name: backup_20260428_224405.zip
+Backup completed at: Tue Apr 28 22:44:05 IST 2026
+----------------------------------------
+----------------------------------------
+Backup started at: Tue Apr 28 22:45:00 IST 2026
+  adding: file2.txt (stored 0%)
+  adding: file1.txt (deflated 9%)
+Files compressed successfully
+Backup stored in cloud_storage folder
+Backup file name: backup_20260428_224500.zip
+Backup completed at: Tue Apr 28 22:45:00 IST 2026
+----------------------------------------
