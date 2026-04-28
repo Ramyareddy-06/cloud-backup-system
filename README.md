@@ -1,4 +1,4 @@
-# Automated Cloud Backup and Recovery System with Scheduled Backup
+# Automated Cloud Backup and Recovery System using AWS S3
 
 ## Project Overview
 This project is an Automated Cloud Backup and Recovery System implemented using Shell Script on Mac. It creates timestamped ZIP backups, stores them in a simulated cloud storage folder, maintains logs, supports recovery, and uses cron job automation for scheduled backup.
